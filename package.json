@@ -1,34 +1,32 @@
 {
-    "name": "react-simple-dfp",
-    "version": "0.2.0",
-    "description": "A simple React component for DFP - DoubleClick for Publishers.",
-    "main": "lib/component.js",
-    "scripts": {
-        "lint": "eslint ."
-    },
-    "keywords": [
-        "advertising",
-        "component",
-        "dfp",
-        "doubleclick",
-        "doubleclick for publishers",
-        "gpt",
-        "react"
-    ],
-    "author": "Amobiz",
-    "contributors": [
-        "ALi Li (https://github.com/esbb48)",
-        "Ufuk BAYIR (https://github.com/ufukbay)"
-    ],
-    "license": "MIT",
-    "dependencies": {
-        "create-react-class": "^15.6.2",
-        "prop-types": "^15.6.0"
-    },
-    "devDependencies": {
-        "eslint": "^3.2.2"
-    },
-    "peerDependencies": {
-        "react": ">= 15.3.0"
-    }
+  "name": "react-simple-dfp",
+  "version": "0.2.0",
+  "description": "A simple React component for DFP - DoubleClick for Publishers.",
+  "main": "lib/component.js",
+  "keywords": [
+    "advertising",
+    "component",
+    "dfp",
+    "doubleclick",
+    "doubleclick for publishers",
+    "gpt",
+    "react"
+  ],
+  "author": "Amobiz",
+  "contributors": [
+    "ALi Li (https://github.com/esbb48)",
+    "Ufuk BAYIR (https://github.com/ufukbay)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "create-react-class": "^15.6.2",
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "prettier": "^1.17.1"
+  },
+  "peerDependencies": {
+    "react": ">= 15.3.0"
+  }
 }
